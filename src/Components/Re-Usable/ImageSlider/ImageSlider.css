@@ -1,0 +1,17 @@
+.each-slide-effect > div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    height: 350px;
+  }
+  
+  .react-slideshow-wrapper.slide{
+    border-radius:20px;
+    border:2px aquamarine solid;
+}
+.each-slide-effect img{
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}

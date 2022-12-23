@@ -5,6 +5,10 @@ module.exports = {
   ],
   theme: {
     extend: {},
+    screens: {
+      'sm': {'max': '650px'},
+      'md': {'max': '815px'},
+    },
   },
   plugins: [],
 }

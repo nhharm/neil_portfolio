@@ -1,0 +1,7 @@
+form, label{
+    font-family: 'futura-pt', sans-serif;
+
+}
+input.placeholder{
+    color: white!important;
+}
