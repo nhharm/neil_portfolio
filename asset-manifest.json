@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/neil_portfolio/static/css/main.cbfaeb68.css",
+    "main.js": "/neil_portfolio/static/js/main.af089132.js",
+    "static/media/Nasdaq Board 2.png": "/neil_portfolio/static/media/Nasdaq Board 2.020ef940d71d7292b7ff.png",
+    "static/media/nh_headshot.jpg": "/neil_portfolio/static/media/nh_headshot.6f9e1342fabfa13921fa.jpg",
+    "static/media/Screenshot (70).png": "/neil_portfolio/static/media/Screenshot (70).7f579f89e9e41a56646f.png",
+    "static/media/NH.png": "/neil_portfolio/static/media/NH.ccdb761b6e111ff6999a.png",
+    "static/media/VSE Group Values Sheet.png": "/neil_portfolio/static/media/VSE Group Values Sheet.5a7643404448ff0aeb0b.png",
+    "static/media/VSE AR 2022 InnerPages 2.png": "/neil_portfolio/static/media/VSE AR 2022 InnerPages 2.a4977a7197ecad49b577.png",
+    "static/media/Leeander 2.png": "/neil_portfolio/static/media/Leeander 2.a9eea1d6630d111307b1.png",
+    "static/media/VSE Corp 2022 AR Inner Pages.png": "/neil_portfolio/static/media/VSE Corp 2022 AR Inner Pages.f38f5f9d959f73c8d913.png",
+    "static/media/VSE Brand Refresh Site.png": "/neil_portfolio/static/media/VSE Brand Refresh Site.dd6c2c6f8d51cb2056ad.png",
+    "static/media/Leeander 1.png": "/neil_portfolio/static/media/Leeander 1.474187a625b5e5bc5f05.png",
+    "static/media/2021 VSE AR COVER.png": "/neil_portfolio/static/media/2021 VSE AR COVER.43d70ce62fb7d95f8dc8.png",
+    "static/media/VSE BrandRefresh.png": "/neil_portfolio/static/media/VSE BrandRefresh.59920bd3febc278b1dca.png",
+    "static/media/ACA Short Video.png": "/neil_portfolio/static/media/ACA Short Video.ec671aeabec09e64e97a.png",
+    "static/media/VSE Templates Powerpoint.png": "/neil_portfolio/static/media/VSE Templates Powerpoint.7044bebe61ecb5dd7c49.png",
+    "static/media/NCC 1.jpg": "/neil_portfolio/static/media/NCC 1.6c6dde0f78ee186f5244.jpg",
+    "static/media/NH 2.png": "/neil_portfolio/static/media/NH 2.cd7a7f822dd10ff6b398.png",
+    "static/media/2019 NCC Program Guide.jpeg": "/neil_portfolio/static/media/2019 NCC Program Guide.b98c03f63083017d9e0b.jpeg",
+    "static/media/2022 VSE Corporation Annual Report.jpg": "/neil_portfolio/static/media/2022 VSE Corporation Annual Report.10ae607aec90011dfc27.jpg",
+    "static/media/NCC 2.jpg": "/neil_portfolio/static/media/NCC 2.ddcafabbba5c9135f01a.jpg",
+    "static/media/AVA Ion Unit Digital Ads VSE Aviation.jpeg": "/neil_portfolio/static/media/AVA Ion Unit Digital Ads VSE Aviation.b64a31c0e578528d1a88.jpeg",
+    "static/media/NCC Microsite Portfolio.jpeg": "/neil_portfolio/static/media/NCC Microsite Portfolio.9fac40f984659183e923.jpeg",
+    "static/media/VSE Aviation AVA Ion Unit AD Spread.jpeg": "/neil_portfolio/static/media/VSE Aviation AVA Ion Unit AD Spread.781a6dffc935884f9b53.jpeg",
+    "static/media/VSE 2020 Annual Report.jpeg": "/neil_portfolio/static/media/VSE 2020 Annual Report.58088f8f8cdb2b076857.jpeg",
+    "static/media/Energetics Logo Design.jpeg": "/neil_portfolio/static/media/Energetics Logo Design.f071396e732e37cf9b0d.jpeg",
+    "static/media/nh_gradient1.png": "/neil_portfolio/static/media/nh_gradient1.532f5741a88b933fe746.png",
+    "static/media/nh_logo.png": "/neil_portfolio/static/media/nh_logo.8036c63411bedac6afe6.png",
+    "static/media/nh_gradient3.png": "/neil_portfolio/static/media/nh_gradient3.563004bb26dbd9a4c909.png",
+    "static/media/nh_gradient2.png": "/neil_portfolio/static/media/nh_gradient2.9bc109fb4208c50ff256.png",
+    "index.html": "/neil_portfolio/index.html",
+    "main.cbfaeb68.css.map": "/neil_portfolio/static/css/main.cbfaeb68.css.map",
+    "main.af089132.js.map": "/neil_portfolio/static/js/main.af089132.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbfaeb68.css",
+    "static/js/main.af089132.js"
+  ]
+}
