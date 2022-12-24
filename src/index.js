@@ -26,38 +26,30 @@ import ACACampaign from "./Components/Design/ACA_Campaign";
 import VSERefresh from "./Components/Design/VSE_Refresh";
 
 const gradientAbstract1 = require('./Images/nh_gradient1.png')
-const gradientAbstract2 = require('./Images/nh_gradient2.png') 
+const gradientAbstract2 = require('./Images/nh_gradient2.png')
 
 ReactDOM.render(
   <Router>
-                    <img className="absolute w-[550px] -z-10 right-32 mt-32 top-[25em]" src={gradientAbstract1} alt="" />
-                <img className="absolute w-[150px] -z-20 left-32  top-40" src={gradientAbstract2} alt="" />
+    <img className="absolute w-[550px] -z-10 right-32 mt-32 top-[25em]" src={gradientAbstract1} alt="" />
+    <img className="absolute w-[150px] -z-20 left-32  top-40" src={gradientAbstract2} alt="" />
     <Header />
+    <React.StrictMode>
     <Routes>
-      <Route path="/" element={<Home />} />
+      <Route path={process.env.PUBLIC_URL + '/'} element={<Home />} />
       <Route path="/About" element={<About />} />
       <Route path="/Design" element={<Design />} />
       <Route path="/Code" element={<Code />} />
-
       <Route path="Components/Design/Nasdaq_Billboard" element={<NasdaqBillboard />} />
       <Route path="Components/Design/VSE_Annual_Report" element={<VSEAR />} />
       <Route path="Components/Design/NCC_Branding" element={<NCCBranding />} />
       <Route path="Components/Design/Energetics_Rebrand" element={<Energetics />} />
       <Route path="Components/Design/ACA_Campaign" element={<ACACampaign />} />
       <Route path="Components/Design/VSE_Refresh" element={<VSERefresh />} />
-
       <Route path="Components/Code/Grav_Theme" element={<GravPortfolio />} />
       <Route path="Components/Code/Golf_App" element={<GolfApp />} />
       <Route path="Components/Code/WebDev_Examples" element={<WebDev />} />
-
-
-
-
-
-
-
-
     </Routes>
+  </React.StrictMode>,
     <Footer />
   </Router>,
 

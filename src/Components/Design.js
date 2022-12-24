@@ -28,10 +28,10 @@ export default class Design extends React.Component {
        <div className="grid-cols-2  gap-8  grid my-24 md:grid-cols-1">
        <Card title="VSE Nasdaq Billboard Animation" image={nasdaq} link='../Components/Design/Nasdaq_Billboard' projectPage={NasdaqBillboard} />
        <Card title="VSE Annual Reports/ESG Reports" image={annualReport} link='../Components/Design/VSE_Annual_Report' projectPage={VSEAR}/>
-       <Card title="NCA Club Conference Program Guide" image={nccProgram} link='../Components/Design/NCC_Branding' projectPage={NCCBranding}/>
+       <Card title="NCA Club Conference Branding Design" image={nccProgram} link='../Components/Design/NCC_Branding' projectPage={NCCBranding}/>
        <Card title="Energetics Branding Re-Design" image={energetics} link='../Components/Design/Energetics_Rebrand' projectPage={Energetics}/>
        <Card title="ACA Component Marketing Campaign" image={ACA} link='../Components/Design/ACA_Campaign' projectPage={ACACampaign}/>
-       <Card title="VSE Corp Brand Refresh" image={BrandRefresh} link='../Components/Design/VSE_Refresh' projectPage={VSERefresh}/>
+       <Card title="VSE Corporation Brand Refresh" image={BrandRefresh} link='../Components/Design/VSE_Refresh' projectPage={VSERefresh}/>
        </div>
       </div>
     )

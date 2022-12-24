@@ -31,7 +31,7 @@ export default function Header() {
             <header className="w-full side-margins">
                 <div className='items-center flex px-2 py-8 top-0 transition-all mobile-menu'>
                     
-                <NavLink className="nav-link" to="/"> <figure><img className="w-16 mr-16 object-contain" src={logo} alt="Neil Harm Portolio Logo"></img></figure></NavLink>
+                <NavLink className="nav-link" to={process.env.PUBLIC_URL + '/'}> <figure><img className="w-16 mr-16 object-contain" src={logo} alt="Neil Harm Portolio Logo"></img></figure></NavLink>
                 {(toggleMenu || screenWidth > 816) && (
 
                     <ul className="w-full text-lg text-white  font-extrabold text-right">
