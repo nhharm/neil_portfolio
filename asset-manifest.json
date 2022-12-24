@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/neil_portfolio/static/css/main.cbfaeb68.css",
-    "main.js": "/neil_portfolio/static/js/main.80fcc232.js",
+    "main.css": "/neil_portfolio/static/css/main.179e3844.css",
+    "main.js": "/neil_portfolio/static/js/main.7e72a4c0.js",
     "static/media/Nasdaq Board 2.png": "/neil_portfolio/static/media/Nasdaq Board 2.020ef940d71d7292b7ff.png",
     "static/media/nh_headshot.jpg": "/neil_portfolio/static/media/nh_headshot.6f9e1342fabfa13921fa.jpg",
     "static/media/Screenshot (70).png": "/neil_portfolio/static/media/Screenshot (70).7f579f89e9e41a56646f.png",
@@ -31,11 +31,11 @@
     "static/media/nh_gradient3.png": "/neil_portfolio/static/media/nh_gradient3.563004bb26dbd9a4c909.png",
     "static/media/nh_gradient2.png": "/neil_portfolio/static/media/nh_gradient2.9bc109fb4208c50ff256.png",
     "index.html": "/neil_portfolio/index.html",
-    "main.cbfaeb68.css.map": "/neil_portfolio/static/css/main.cbfaeb68.css.map",
-    "main.80fcc232.js.map": "/neil_portfolio/static/js/main.80fcc232.js.map"
+    "main.179e3844.css.map": "/neil_portfolio/static/css/main.179e3844.css.map",
+    "main.7e72a4c0.js.map": "/neil_portfolio/static/js/main.7e72a4c0.js.map"
   },
   "entrypoints": [
-    "static/css/main.cbfaeb68.css",
-    "static/js/main.80fcc232.js"
+    "static/css/main.179e3844.css",
+    "static/js/main.7e72a4c0.js"
   ]
 }
