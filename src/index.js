@@ -36,18 +36,18 @@ ReactDOM.render(
     <React.StrictMode>
     <Routes>
       <Route path={process.env.PUBLIC_URL + '/'} element={<Home />} />
-      <Route path="/About" element={<About />} />
-      <Route path="/Design" element={<Design />} />
-      <Route path="/Code" element={<Code />} />
-      <Route path="Components/Design/Nasdaq_Billboard" element={<NasdaqBillboard />} />
-      <Route path="Components/Design/VSE_Annual_Report" element={<VSEAR />} />
-      <Route path="Components/Design/NCC_Branding" element={<NCCBranding />} />
-      <Route path="Components/Design/Energetics_Rebrand" element={<Energetics />} />
-      <Route path="Components/Design/ACA_Campaign" element={<ACACampaign />} />
-      <Route path="Components/Design/VSE_Refresh" element={<VSERefresh />} />
-      <Route path="Components/Code/Grav_Theme" element={<GravPortfolio />} />
-      <Route path="Components/Code/Golf_App" element={<GolfApp />} />
-      <Route path="Components/Code/WebDev_Examples" element={<WebDev />} />
+      <Route path={process.env.PUBLIC_URL + '/About'} element={<About />} />
+      <Route path={process.env.PUBLIC_URL + '/Design'} element={<Design />} />
+      <Route path={process.env.PUBLIC_URL + '/Code'}element={<Code />} />
+        <Route path={"Components/Design/Nasdaq_Billboard"} element={<NasdaqBillboard />} />
+        <Route path="Components/Design/VSE_Annual_Report" element={<VSEAR />} />
+        <Route path="Components/Design/NCC_Branding" element={<NCCBranding />} />
+        <Route path="Components/Design/Energetics_Rebrand" element={<Energetics />} />
+        <Route path="Components/Design/ACA_Campaign" element={<ACACampaign />} />
+        <Route path="Components/Design/VSE_Refresh" element={<VSERefresh />} />
+        <Route path="Components/Code/Grav_Theme" element={<GravPortfolio />} />
+        <Route path="Components/Code/Golf_App" element={<GolfApp />} />
+        <Route path="Components/Code/WebDev_Examples" element={<WebDev />} />
     </Routes>
   </React.StrictMode>,
     <Footer />
