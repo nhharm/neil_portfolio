@@ -29,7 +29,7 @@ const gradientAbstract1 = require('./Images/nh_gradient1.png')
 const gradientAbstract2 = require('./Images/nh_gradient2.png')
 
 ReactDOM.render(
-  <Router basename="/neil_portfolio" >
+  <Router >
     <img className="absolute w-[550px] -z-10 right-32 mt-32 top-[25em]" src={gradientAbstract1} alt="" />
     <img className="absolute w-[150px] -z-20 left-32  top-40" src={gradientAbstract2} alt="" />
     <Header />
