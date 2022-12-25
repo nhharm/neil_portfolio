@@ -35,9 +35,9 @@ export default function Header() {
                 {(toggleMenu || screenWidth > 816) && (
 
                     <ul className="w-full text-lg text-white  font-extrabold text-right">
-                    <NavLink className="nav-link" to="/About">  <li className='inline-block px-4 py-1 mx-8 min-w-110 rounded-lg bg-white cursor-pointer text-gray-800 border-gray-300 border-2 '>about me</li></NavLink>
-                    <NavLink className="nav-link" to="/Design">  <li className='inline-block px-4 py-1 mx-8 min-w-110 rounded-lg bg-white cursor-pointer text-gray-800 border-gray-300 border-2 '>design</li></NavLink>
-                    <NavLink className="nav-link" to="/Code"> <li className='inline-block px-4 py-1 mx-8 min-w-110 rounded-lg bg-white cursor-pointer text-gray-800 border-gray-300 border-2'>code</li></NavLink>
+                    <NavLink className="nav-link" to={process.env.PUBLIC_URL + '/About'}>  <li className='inline-block px-4 py-1 mx-8 min-w-110 rounded-lg bg-white cursor-pointer text-gray-800 border-gray-300 border-2 '>about me</li></NavLink>
+                    <NavLink className="nav-link" to={process.env.PUBLIC_URL + '/Design'}>  <li className='inline-block px-4 py-1 mx-8 min-w-110 rounded-lg bg-white cursor-pointer text-gray-800 border-gray-300 border-2 '>design</li></NavLink>
+                    <NavLink className="nav-link" to={process.env.PUBLIC_URL + '/Code'}> <li className='inline-block px-4 py-1 mx-8 min-w-110 rounded-lg bg-white cursor-pointer text-gray-800 border-gray-300 border-2'>code</li></NavLink>
                     </ul>
                         )}
                     <button onClick={toggleNav} className="btn hidden text-md absolute right-6 top-6">{mobileButton}</button>
