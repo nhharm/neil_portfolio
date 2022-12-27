@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.179e3844.css",
-    "main.js": "/static/js/main.73c0677d.js",
+    "main.js": "/static/js/main.424a80e8.js",
     "static/media/Nasdaq Board 2.png": "/static/media/Nasdaq Board 2.020ef940d71d7292b7ff.png",
     "static/media/nh_headshot.jpg": "/static/media/nh_headshot.6f9e1342fabfa13921fa.jpg",
     "static/media/Screenshot (70).png": "/static/media/Screenshot (70).7f579f89e9e41a56646f.png",
@@ -32,10 +32,10 @@
     "static/media/nh_gradient2.png": "/static/media/nh_gradient2.9bc109fb4208c50ff256.png",
     "index.html": "/index.html",
     "main.179e3844.css.map": "/static/css/main.179e3844.css.map",
-    "main.73c0677d.js.map": "/static/js/main.73c0677d.js.map"
+    "main.424a80e8.js.map": "/static/js/main.424a80e8.js.map"
   },
   "entrypoints": [
     "static/css/main.179e3844.css",
-    "static/js/main.73c0677d.js"
+    "static/js/main.424a80e8.js"
   ]
 }
