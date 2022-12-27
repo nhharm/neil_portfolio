@@ -1,7 +1,7 @@
 {
   "name": "neil_portfolio",
   "version": "0.1.0",
-  "homepage": "www.neilharm.info",
+  "homepage": "https://nhharm.github.io/",
   "private": false,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.2.1",
