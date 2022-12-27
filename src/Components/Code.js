@@ -2,6 +2,7 @@ import React from "react";
 import Card from "../Components/Re-Usable/ProjectBoxes/ProjectBoxes"
 import GolfApp from "./Code/Golf_App";
 import GravPortfolio from "./Code/Grav_Theme";
+import NCAAgenda from "./Code/NCA Agenda";
 import WebDev from "./Code/WebDev_Examples";
 
 
@@ -26,7 +27,7 @@ Coding is for fun for me but I do occasionally take on freelance front-end work.
                 <Card title="Web Development: CSS-Grid and Flexbox Examples" link='../Components/Code/WebDev_Examples' projectPage={WebDev} >
                    Homepage examples showing understanding of the principles of Grid and Flexbox web layouts.
                 </Card>
-                <Card title="National Club Association's NCA Agenda Weekly News Site" >
+                <Card title="National Club Association's NCA Agenda Weekly News Site" link='../Components/Code/WebDev_Examples' projectPage={NCAAgenda} >
                     NCA Membership news website featuring weekly updates on important association & industry news.
                 </Card>
             </div>

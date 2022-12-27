@@ -24,6 +24,7 @@ import NCCBranding from "./Components/Design/NCC_Branding";
 import Energetics from "./Components/Design/Energetics_Rebrand";
 import ACACampaign from "./Components/Design/ACA_Campaign";
 import VSERefresh from "./Components/Design/VSE_Refresh";
+import NCAAgenda from "./Components/Code/NCA Agenda";
 
 const gradientAbstract1 = require('./Images/nh_gradient1.png')
 const gradientAbstract2 = require('./Images/nh_gradient2.png')
@@ -48,6 +49,8 @@ ReactDOM.render(
         <Route path="Components/Code/Grav_Theme" element={<GravPortfolio />} />
         <Route path="Components/Code/Golf_App" element={<GolfApp />} />
         <Route path="Components/Code/WebDev_Examples" element={<WebDev />} />
+        <Route path="Components/Code/NCA Agenda" element={<NCAAgenda />} />
+
     </Routes>
   </React.StrictMode>,
     <Footer />
