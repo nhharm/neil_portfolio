@@ -15,7 +15,7 @@ export default class Hero extends React.Component {
                 <div className="flex flex-row w-full h-full align-middle justify-around">
                     <div className='w-[70%] px-1 sm:w-full'>
                         <h1 className="text-7xl font-extrabold text-gray-800">Hi! I'm <span className="hand-drawn text-[98px]">neil</span></h1>
-                        <p className="text-gray-400 text-xl font-medium leading-9 w-[98%] rounded-lg bg-white p-4">I'm Neil Harm, a branding professional based in Alexandria, VA, currentley working with VSE Corporation. My work has revolved around enhancing/integrating corporate branding through modern design, web assets and digital media.</p>
+                        <p className="text-gray-400 text-xl font-medium leading-9 w-[98%] rounded-lg bg-white p-4">I'm Neil Harm, a branding professional based in Alexandria, VA, currently working with VSE Corporation. My work has revolved around enhancing/integrating corporate branding through modern design, web assets and digital media.</p>
                     </div>
 
                     <div className="w-[30%] h-[300px] md:pt-14 md:mr-2 md:h-[250px]  sm:hidden">

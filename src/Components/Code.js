@@ -27,7 +27,7 @@ Coding is for fun for me but I do occasionally take on freelance front-end work.
                 <Card title="Web Development: CSS-Grid and Flexbox Examples" link='../Components/Code/WebDev_Examples' projectPage={WebDev} >
                    Homepage examples showing understanding of the principles of Grid and Flexbox web layouts.
                 </Card>
-                <Card title="National Club Association's NCA Agenda Weekly News Site" link='../Components/Code/WebDev_Examples' projectPage={NCAAgenda} >
+                <Card title="National Club Association's NCA Agenda Weekly News Site" link='../Components/Code/NCA Agenda' projectPage={NCAAgenda} >
                     NCA Membership news website featuring weekly updates on important association & industry news.
                 </Card>
             </div>
