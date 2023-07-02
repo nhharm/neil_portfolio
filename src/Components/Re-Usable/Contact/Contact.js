@@ -1,5 +1,4 @@
 import React from "react";
-import ContactForm from "./Form";
 
 
 export default class ContactBox extends React.Component {
