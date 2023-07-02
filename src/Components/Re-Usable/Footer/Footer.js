@@ -23,7 +23,7 @@ constructor(props){
                     <h4 className="text-lg text-gray-800 text-center font-semibold">you can contact me directly at nhharm@gmail.com</h4>
                     <div className="flex flex-row w-full justify-center pt-6">
                         <a target="_blank" rel="noopener noreferrer" href="https://github.com/nhharm?tab=repositories"><p className="text-sm bg-gray-800 text-white  rounded-lg mr-2 px-2 py-1">github</p></a>
-                       <a target="_blank" rel="noopener noreferrer" href="#"><p className="text-sm bg-gray-800 text-white rounded-lg mr-2  px-2 py-1">linkedin</p></a> 
+                       <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/neil-harm010/"><p className="text-sm bg-gray-800 text-white rounded-lg mr-2  px-2 py-1">linkedin</p></a> 
                        <a target="_blank" rel="noopener noreferrer" href="https://codepen.io/your-work/"> <p className="text-sm bg-gray-800 text-white rounded-lg px-2 py-1">codepen</p></a>
                     </div>
                 </div>
